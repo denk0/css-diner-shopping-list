@@ -1,0 +1,22 @@
+body {
+	background: #e1e1e1;
+	text-align: center;
+}
+h1 {
+	font-size: 40px;
+	color: aqua;
+	margin-bottom: 140px;
+}
+div h1 {
+	font-size: 20px;
+	color: red;
+}
+div h1 span {
+	color: green;
+}
+.box {
+	color: blue;
+}
+#page-header {
+	color: green;
+}
